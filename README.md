@@ -104,7 +104,3 @@ Sentences that become empty after preprocessing still participate in a fallback 
 | `2` | Invalid arguments (for example `--num-points` set to less than 1) |
 
 ---
-
-## License
-
-Add a license file if you distribute this project; none is included by default.
